@@ -4,11 +4,10 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "start": "node server.js"
+    "build": "vue-cli-service build"
+    
   },
   "dependencies": {
-    "@vue/cli-service": "~5.0.0",
     "@vuelidate/core": "^2.0.0-alpha.44",
     "@vuelidate/validators": "^2.0.0-alpha.31",
     "axios": "^0.27.2",

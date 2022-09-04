@@ -32,7 +32,7 @@ export default {
     /* justify-content: center; */
     align-items: center;
     width: 100%;
-    /* height: calc(100vh - 75px); */
+    height: calc(100vh - 75px);
     padding: 10px;
 }
 
